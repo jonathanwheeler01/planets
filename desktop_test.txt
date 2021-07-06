@@ -1,2 +1,3 @@
 Demonstrating GitHub desktop.
+Demonstrating pull via desktop app.
 
